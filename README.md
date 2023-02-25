@@ -1,12 +1,13 @@
 <h1 align="center">Hi There👋, I'm Innocent Ndahimana</h1>
 
-                                   - 🔭 I’m currently working on **My Portfolio**
+                                   - 🔭 I’m currently working on My Portfolio
 
-                                   - 🌱 I’m currently learning **JavaScript, React, and Ruby on Rails**
+                                   - 🌱 I’m currently learning JavaScript, React, and Ruby on Rails
   
-                                   - 💬 Ask me about **Blockchain technology**
+                                   - 💬 Ask me about Blockchain technology
  
-                                   - 📫 How to reach me **ndahimanainnocent842@gmail.com**
+                                   - 📫 How to reach me ndahimanainnocent842@gmail.com
+                                   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=innocent259&show_icons=true&locale=en" alt="innocent259" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=innocent259&show_icons=true&locale=en&layout=compact" alt="innocent259" /></p>
 
